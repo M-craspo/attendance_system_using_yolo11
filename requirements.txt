@@ -1,7 +1,4 @@
 streamlit
-cmake
-boost
-dlib==19.24.6
 opencv-python
 opencv-python-headless
 numpy
